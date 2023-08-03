@@ -1,0 +1,7 @@
+<phpunit>
+    <testsuites>
+        <testsuite name="Test Currency Converter App">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

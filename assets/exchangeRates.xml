@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencyConverter>
+    <baseCurrency>EUR</baseCurrency>
+    <exchangeRates>
+        <EUR>1</EUR>
+        <USD>5</USD>
+        <CHF>0.97</CHF>
+        <CNY>2.3</CNY>
+    </exchangeRates>
+</currencyConverter>
